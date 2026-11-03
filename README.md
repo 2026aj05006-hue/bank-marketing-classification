@@ -42,3 +42,7 @@ SVM was selected as the best overall model because it achieved the highest F1-sc
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+**##Links**
+GitHub Repository : https://github.com/2026aj05006-hue/bank-marketing-classification
+Streamlit App : https://bank-marketing-classification-poy4g4hx8q6vwjyjfogssd.streamlit.app

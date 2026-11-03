@@ -41,7 +41,8 @@ SVM was selected as the best overall model because it achieved the highest F1-sc
 ## How to Run Locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py```
+streamlit run app.py
+```
 
 ## Links
 GitHub Repository : https://github.com/2026aj05006-hue/bank-marketing-classification
